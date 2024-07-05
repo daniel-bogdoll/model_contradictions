@@ -1,7 +1,4 @@
-# Anomaly Detection with Model Contradictions for Autonomous Driving
-
-This repo is part of the following thesis **[Anomaly Detection with Model Contradictions for Autonomous Driving](https://cloud.schiller-lan.party/s/NcfsHT7K5EnAXM3)**.
-
+# Complementary Learning for Real-World Model Failure Detection
 
 ## Overview
 ```bash
