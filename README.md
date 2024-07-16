@@ -1,5 +1,7 @@
 # Complementary Learning for Real-World Model Failure Detection
 
+Official repository for the paper Complementary Learning for Real-World Model Failure Detection
+
 ## Overview
 ```bash
 └─┬ Create CODA (~ 3h) (create_coda/) 
