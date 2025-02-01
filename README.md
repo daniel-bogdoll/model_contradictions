@@ -1,6 +1,6 @@
-# Complementary Learning for Real-World Model Failure Detection
+# Label-Free Model Failure Detection for Lidar-based Point Cloud Segmentation
 
-Official repository for the paper Complementary Learning for Real-World Model Failure Detection
+Official repository for the paper Label-Free Model Failure Detection for Lidar-based Point Cloud Segmentation
 
 ## Overview
 ```bash
